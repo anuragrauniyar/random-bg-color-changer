@@ -17,7 +17,10 @@ An interactive web application that changes the background color to a random RGB
 2. The RGB code of the current background color will be displayed.
 
 ## Live Demo
-Check out the live demo of the Random Background Color Changer: [Random Background Color Changer](https://anuragrauniyar.github.io/random-bg-color-changer/)
+Check out the live demo of the Random Background Color Changer: [Random Background Color Changer](https://anuragrauniyar.github.io/random-bg-color-changer/) 
+
+![Webpage View](https://github.com/user-attachments/assets/553d0e8e-16d9-4707-bd6c-9cfbeb8287b2)
+
 
 ## How to Run Locally
 1. Clone this repository:
