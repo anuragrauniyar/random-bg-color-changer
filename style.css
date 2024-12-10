@@ -1,0 +1,40 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --yellow: rgb(241,190,50);
+  --golden-yellow: rgb(254, 172, 50);
+  --dark-purple: rgb(17, 8, 21);
+  --light-grey: rgb(239, 239, 239);
+}
+
+body {
+  background-color: var(--dark-purple);
+  color: var(--light-grey);
+  text-align: center;
+}
+
+.bg-information-container {
+  margin: 15px 0 25px;
+  font-size: 1.2rem;
+}
+
+.btn {
+  cursor: pointer;
+  padding: 10px;
+  margin: 10px;
+  color: var(--dark-purple);
+  background-color: var(--golden-yellow);
+  background-image: linear-gradient(#fecc4c, #ffac33);
+  border-color: var(--golden-yellow);
+  border-width: 3px;
+}
+
+.btn:hover {
+  background-image: linear-gradient(#ffcc4c, #f89808);
+}
