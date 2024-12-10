@@ -25,5 +25,5 @@ Check out the live demo of the Random Background Color Changer: [Random Backgrou
    git clone https://github.com/anuragrauniyar/random-bg-color-changer.git
 2. Open index.html in your browser.
 
-Author
+Anurag<br>
 Anurag Rauniyar
